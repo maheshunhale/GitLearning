@@ -1,1 +1,3 @@
 First sample git file
+
+Updated sample  file
